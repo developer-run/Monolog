@@ -1,5 +1,5 @@
 {
-	"name": "kdyby/monolog",
+	"name": "devrun/monolog",
 	"type": "library",
 	"description": "Integration of Monolog into Nette Framework",
 	"keywords": ["nette", "monolog", "logging", "diagnostics"],
@@ -22,7 +22,7 @@
 		"nette/di": "^3.0",
 		"kdyby/strict-objects": "^2.0",
 		"monolog/monolog": "^2.0",
-		"tracy/tracy": "^3.0"
+		"tracy/tracy": "^2.7@dev"
 	},
 	"require-dev": {
 		"nette/application": "^3.0",
